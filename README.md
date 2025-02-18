@@ -50,5 +50,5 @@ _More details on training are in [models.py](models.py)_
 ---
 
 ## Prediction for CW1_test.csv
-- The predictions are saved in submission_k23086553.csv .
+- The predictions are saved in CW1_submission_k23086553.csv .
 - These predictions were generated using the final_xgboost_model2.pkl model.
