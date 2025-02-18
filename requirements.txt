@@ -1,0 +1,6 @@
+pandas==2.2.3
+scipy
+scikit-tlearn
+matplot.lib
+statsmodels
+xgboost
